@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajonbin / Haiming Huang
 - 👀 I’m interested in [ IoT / Cloud Computing / Blockchain ] for Vehicle.
-- 🌱 I’m currently learning Autonomous Driving
+- 🌱 I’m currently working on Autonomous Driving
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ajonbin@hotmail.com
 
